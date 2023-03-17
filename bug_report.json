@@ -1,0 +1,15 @@
+{
+    "ID" : 1 
+    "Summary" : "Company's logo is missing on the mane page"
+    "Steps" : {
+  1 : "navigate to capital.com"
+  2 : "look at the header of the main page"
+}
+
+    "Expected result" : "Logo are displayed"
+    "Actual result" : "Logo is missing"
+    "Environment" : "Chrome. 110"
+    "Severity" : "Minor"
+    "priority" : "High"
+    "Author" : "Irina Yarmolyuk"
+    "Status" : "Open"
